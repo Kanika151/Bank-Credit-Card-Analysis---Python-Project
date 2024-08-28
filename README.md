@@ -1,7 +1,15 @@
 # Bank Credit Card Data Analysis
 
-## Project Overview
+### Dashboard SnapShot : 
 
+![DDashboard SnapShot : 
+
+![Dashboard_upload](https://github.com/Kanika151/Bank-Credit-Card-Analysis---Python-Project/blob/main/20240828_195012_0000.png) 
+ashboard_upload](https://github.com/Kanika151/OTTs-Content-Analysis-/blob/main/Untitled.png)
+
+
+
+## Project Overview
 This project involves analyzing a bank credit card dataset to gain insights into customer behavior, financial performance, and the impact of various factors on key metrics. The analysis includes visualizations created using Python, `pandas`,`matplotlib`, 'seaborn'.
 
 ## Dataset Description
