@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analyzing a bank credit card dataset to gain insights into customer behavior, financial performance, and the impact of various factors on key metrics. The analysis includes visualizations created using Python, `pandas`, and `matplotlib`.
+This project involves analyzing a bank credit card dataset to gain insights into customer behavior, financial performance, and the impact of various factors on key metrics. The analysis includes visualizations created using Python, `pandas`,`matplotlib`, 'seaborn'.
 
 ## Dataset Description
 
